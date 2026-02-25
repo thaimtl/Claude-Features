@@ -58,10 +58,11 @@ This skill generates a LaTeX resume in Jake's Overleaf template from a PDF or pa
 
 ### Trigger it
 
-1. Start a new chat on **claude.ai**.
-2. Click the paperclip icon and upload your resume PDF.
-3. Type: `Use the jake-resume-latex skill to generate my resume.`
-4. Press **Enter**.
+1. In Settings > Customize > Skills, click Upload skill.
+2. Select the downloaded ZIP and confirm. The skill appears in your list.
+3. Start a new chat. Click the paperclip icon and upload your resume PDF.
+4. Type: `Use the jake-resume-latex skill to generate my resume.`
+5. Press **Enter**.
 
 Claude reads your PDF, identifies all four sections (Technical Skills, Experience, Projects, Education), and replies with a brief summary followed by a single `latex` code block.
 
