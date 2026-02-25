@@ -52,7 +52,7 @@ Claude reads `name` and `description` first. If your request matches, it loads t
 
 ## Use it: I will give you a walkthrough with the LaTeX Resume Skill
 
-Download my jake-resume-skill.zip in this repo. Please read what is inside too before downloading too (for the sake of best pratice)\n
+Download my jake-resume-skill.zip in this repo. Please read what is inside too before downloading (for the sake of best pratice)\n
 
 This skill generates a LaTeX resume in Jake's Overleaf template from a PDF or pasted text. [Why LaTeX you may ask?](https://www.reddit.com/r/LaTeX/comments/1noexjg/should_i_use_latex_for_making_a_resume/)
 
