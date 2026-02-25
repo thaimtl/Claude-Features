@@ -52,6 +52,7 @@ Claude reads `name` and `description` first. If your request matches, it loads t
 
 ## Use it — walkthrough with the LaTeX Resume Skill
 
+Download my jake-resume-skill.zip in this repo. 
 This skill generates a LaTeX resume in Jake's Overleaf template from a PDF or pasted text.
 
 ### Trigger it
@@ -83,7 +84,7 @@ Then the full LaTeX source:
 
 \begin{center}
     \textbf{\Huge \scshape Thai Tran} \\ \vspace{1pt}
-    \small 514-713-2854 $|$
+    \small 514-000-0804 $|$
     \href{mailto:minh.thai.tran@mail.mcgill.ca}{\underline{minh.thai.tran@mail.mcgill.ca}} $|$
     \href{https://linkedin.com/in/thai-tran-minh}{\underline{linkedin.com/in/thai-tran-minh}} $|$
     \href{https://github.com/thaimtl}{\underline{github.com/thaimtl}}
