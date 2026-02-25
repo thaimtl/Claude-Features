@@ -111,3 +111,6 @@ Then the full LaTeX source:
 - **Toggle** a skill on or off anytime in **Settings > Customize > Skills** without deleting it.
 - **Update** a skill by editing `SKILL.md`, re-zipping the folder, deleting the old skill, and uploading the new ZIP.
 - **Add more** skills for other tasks. Claude picks the right one based on context.
+
+## More info
+Check out the official documentation: https://code.claude.com/docs/en/skills
