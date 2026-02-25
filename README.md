@@ -1,5 +1,6 @@
 # Claude Features
-This repo hosts all my demos for McGill students on different concepts of Claude.ai
+This repo hosts all my demos for McGill students on different concepts of Claude.ai.\n
+
 All contents are heavily inspired by [Anthropic](https://anthropic.skilljar.com/)
 
 # Documentations
