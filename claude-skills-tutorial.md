@@ -6,6 +6,8 @@ A Skill is a reusable instruction package you upload once. Claude loads it autom
 
 **Requires:** Pro, Max, Team, or Enterprise plan. Code execution must be enabled in **Settings > Customize**.
 
+This tutorial is designed for Claude.ai browser interface, to work more advancely with Claude Skills in Claude Code. [Complete this!](https://anthropic.skilljar.com/introduction-to-agent-skills)
+
 ---
 
 ## Enable Skills
