@@ -42,7 +42,7 @@ Each team member opens a new Claude Code session and picks up an issue.
 
 1. Run `/init` to refresh Claude's memory.
 2. Enter Plan Mode. Review Claude's plan. Adjust it until you understand every step.
-3. Run `execute-plan` from the Superpowers plugin. Claude will begin executing.
+3. Tell Claude to execute the plan, and `execute-plan` from the Superpowers plugin will run automatically on pilot mode. Claude will begin executing.
 4. Build the feature together with Claude.
 5. When done, ask Claude to run a code review. The `code-reviewer` agent will flag issues before you commit.
 6. Create a branch, commit, and push. Open a PR and merge. If you have the GitHub plugin, Claude handles this automatically.
