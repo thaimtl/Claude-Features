@@ -2,7 +2,12 @@
 
 ## Setup
 
-After `git init`, install the **Superpowers** plugin pack. It bundles the skills needed to build features end to end. Not sure what skills or plugins are? Ask Claude directly, or check the Claude Code documentation at [docs.claude.ai](https://docs.claude.ai).
+After `git init`, install the **[Superpowers](https://github.com/obra/superpowers)** plugin pack. It bundles the skills needed to build features end to end. Not sure what skills or plugins are? Ask Claude directly, or check the Claude Code documentation at https://code.claude.com/docs/en/discover-plugins.
+
+Do this by typing /plugins in claude code. 
+<img width="823" height="529" alt="Screenshot 2026-03-27 130633" src="https://github.com/user-attachments/assets/cd4c7556-fef5-4398-8c5b-62348e466421" />
+
+<img width="2018" height="388" alt="Screenshot 2026-03-27 130648" src="https://github.com/user-attachments/assets/2a8d49a4-1930-477f-becc-9d1260c957f4" />
 
 ---
 
@@ -24,6 +29,10 @@ Then run `/init`. Claude will generate or update **CLAUDE.md**, which acts as pe
 ### 3. Build Your Issue Backlog (Teams)
 
 Ask Claude to generate an `issues_backlog.md`. Copy each issue into GitHub Projects as individual tickets. Assign owners and note dependencies or blockers before anyone starts coding.
+
+Here is an example after I have injected all of my issues from issues_backlog.md to my github project backlog: 
+
+<img width="2540" height="1322" alt="Screenshot 2026-03-27 131314" src="https://github.com/user-attachments/assets/3071f11c-c44e-4bf4-b521-ef36f7e6d199" />
 
 ### 4. Start Development
 
